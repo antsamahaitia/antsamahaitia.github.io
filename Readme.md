@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://antsamahaitia.github.io
+> https://antsamahaitia.github.io/
 
 :star: Star me on GitHub — it helps!
 
